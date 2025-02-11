@@ -4,7 +4,7 @@
 ## Chrome Extension page
 https://chromewebstore.google.com/detail/linkedin-autofill/bailcmnbhpjfgkegjpmbddapfijkgakg?authuser=0&hl=es-419
 
-## Installation
+## Alternative Local Installation
 1. Clone the repository
 2. Open Chrome
 3. Go to `chrome://extensions/`
