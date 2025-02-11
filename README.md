@@ -1,6 +1,9 @@
 # linkedin-autofiller
  Chrome Extension - Autofills linkedine profile url in web forms
 
+## Chrome Extension page
+https://chromewebstore.google.com/detail/linkedin-autofill/bailcmnbhpjfgkegjpmbddapfijkgakg?authuser=0&hl=es-419
+
 ## Installation
 1. Clone the repository
 2. Open Chrome
