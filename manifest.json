@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "LinkedIn Autofill",
-  "version": "1.0",
+  "version": "2.0",
   "description": "Autofills LinkedIn profile url when filling out forms",
   "permissions": ["storage"],
   "host_permissions": ["<all_urls>"],
